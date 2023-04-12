@@ -6,7 +6,7 @@
 ![image](https://img.shields.io/badge/JavaScript_Assignment-000)
 ![image](https://img.shields.io/badge/By_Pooja-Patil-blue)
 
-[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://javascript-programs.netlify.app)
+[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://javascript-programs-p.netlify.app/)
 
 ## About
 
