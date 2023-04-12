@@ -36,4 +36,4 @@ It have 14 assignment based on CRUD(create, read, update and delete) and 20 Dom 
 ![image](./todo-list-app/screenshot.png)
 ![image](./word-characters-count-app/screenshot.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://javascript-assignments.netlify.app)
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://javascript-programs-p.netlify.app/)
