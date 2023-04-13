@@ -18,7 +18,7 @@
 
 ![Output](./Pic2.png)
 ### Solved Output
-![Solved](./solved/pic1.png)
+![Solved](./solved/Pic1.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
